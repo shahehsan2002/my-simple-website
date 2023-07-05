@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
 }
 
 div {
@@ -8,5 +8,11 @@ div {
     font-style: inherit;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 2px solid rebeccapurple;
-    margin: 5px, 10px;
+    margin bottom: 20px;
+}
+
+#ab {
+    font-size: larger;
+    font-style: unset;
+    font-size-adjust: initial;
 }
